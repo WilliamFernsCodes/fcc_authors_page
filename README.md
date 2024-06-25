@@ -9,7 +9,7 @@
 ![Edited Image](./assets/fcc_authors_page_edited.png)
 ![Screenshot Of Website](./assets/fcc_authors_page_website.png)
 
-An authors page, made with HTML, CSS, and JavaScript, along with using fetch to get the authors data from a url. Feel free to check the <a href="https://fcc-authors-page.vercel.app" target="_blank">website</a> out, and give feedback on what I can improve if you like.
+An authors page, made with JavaScript (HTML and CSS was provided), along with using fetch to get the authors data from a url. Feel free to check the <a href="https://fcc-authors-page.vercel.app" target="_blank">website</a> out, and give feedback on what I can improve if you like.
 
 ## Technologies:
 1. HTML
